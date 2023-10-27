@@ -1,1 +1,5 @@
-theme: jekyll-theme-merlot
+title: Stylianos Petrakis
+# logo: /assets/img/cvPhoto.jpg
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
