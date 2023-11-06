@@ -6,7 +6,7 @@ Leoforos Mournion 87, Chania, Crete, 73300, Greece, Available for Relocation
 [LinkedIn](https://www.linkedin.com/in/steliospetrakis/), [GitHub](https://github.com/SteliosPetrakis), Email: steliosps@hotmail.com, Phone Number: (+30)6945763758
 
 ## Summary
-Energetic Junior Software Engineer and Game Developer with 3+ years of experience, driven by a genuine love for programming and a strongd esire to grow professionally. Seeking opportunities to contribute to innovative software projects and collaborateeffectivelywithintalentedteams. Exprerienced both in Front-End technologies and Back-End, with a solid foundation in software engineering principles. Committed to expanding knowledge and skills in the field.
+Energetic Junior Software Engineer and Game Developer with 3+ years of experience, driven by a genuine love for programming and a strongd esire to grow professionally. Seeking opportunities to contribute to innovative software projects and collaborate effectively within talented teams. Exprerienced both in Front-End and Back-End technologies, with a solid foundation in software engineering principles. Committed to expanding knowledge and skills in the field.
 
 ## Technical Skills
 - Programming Languages: Java, C#, JavasScript, PHP
