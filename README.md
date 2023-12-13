@@ -3,7 +3,7 @@
 
 Leoforos Mournion 87, Chania, Crete, 73300, Greece, Available for Relocation
 
-[LinkedIn](https://www.linkedin.com/in/steliospetrakis/), [GitHub](https://github.com/SteliosPetrakis), Email: steliosps@hotmail.com, Phone Number: (+30)6945763758
+[LinkedIn](https://www.linkedin.com/in/steliospetrakis/), [GitHub](https://github.com/SteliosPetrakis), Email: petrakesstelios@gmail.com, Phone Number: (+30)6945763758
 
 ## Summary
 Energetic Junior Software Engineer and Game Developer with 3+ years of experience, driven by a genuine love for programming and a strongd esire to grow professionally. Seeking opportunities to contribute to innovative software projects and collaborate effectively within talented teams. Exprerienced both in Front-End and Back-End technologies, with a solid foundation in software engineering principles. Committed to expanding knowledge and skills in the field.
@@ -23,15 +23,25 @@ B.S. in Computer Science and Engineering
   - **Thesis Topic:** Game Development for Android Devices with entertaintment purposes.
   - **Supervisor:** Prof. Giorgos Tsamis
 
-## Work Experience
+## Projects
 
-### **Shell - Stratoudaki Arsinoi**
-**Position:** Gas Station Employee | Chania, Greece
-  - I was responsible for customer service, payments, learned about the mechanics of the average car, got accustomed to a fast-paced environment, and gained communicative skills.
+### **2D Game made in Unity **
+**Description:** 
+  -  Designed and programmed a 2D game in Unity in order to expand my knowledge on Game Development and exercise my hobby and enhance my programmning efficiency.
 
-### **Chania Chess Academy**
-**Position:** Chess Teacher and Arbiter | Chania, Greece
-  - I did several chess lessons throughout the years in small groups of children where I taught them basic principles of chess. Moreover, I was an Arbiter for the Girls' Panhellenic Championship in Chania 2021. I've also been a player for 17 years and now I currently have 2017 FIDE ELO.
+### **Website made using HTML/CSS and JavaScript**
+**Description:**
+  - This project was made to deepen my comprehension on website building as it will prove beneficial in my career and life.
+
+## Volunteering
+
+### **TUC GameDev Team | Developer**
+**Description:**
+  - Participated in the development of games and their designing as a game programmer.
+
+### **TUC Chess Team | Player And Coach**
+**Description:**
+  - Conducted chess lessons for my fellow students, fostering critical thinking and strategy development. I’ve also been a player for 17 years and now I currently have 2017 FIDE ELO.
 
 ## Honors & Awards
 
