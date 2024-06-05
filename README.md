@@ -25,7 +25,7 @@ B.S. in Computer Science and Engineering
 
 ## Projects
 
-### **2D Game made in Unity **
+### **2D Game made in Unity**
 **Description:** 
   -  Designed and programmed a 2D game in Unity in order to expand my knowledge on Game Development and exercise my hobby and enhance my programmning efficiency.
 
