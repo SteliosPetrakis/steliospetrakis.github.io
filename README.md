@@ -1,7 +1,7 @@
 # Petrakis Stylianos
 # Junior Software Engineer - Game Developer
 
-Leoforos Mournion 87, Chania, Crete, 73300, Greece, Available for Relocation
+Chania, Crete, Greece
 
 [LinkedIn](https://www.linkedin.com/in/steliospetrakis/), [GitHub](https://github.com/SteliosPetrakis), Email: petrakesstelios@gmail.com, Phone Number: (+30)6945763758
 
